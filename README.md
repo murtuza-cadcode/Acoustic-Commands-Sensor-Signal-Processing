@@ -5,6 +5,9 @@ Project: Sensor Signal Processing (SSP SS25)
 ### Project Overview
 This project implements a complete pipeline for an acoustical command recognition system. The system is designed to recognize spoken voice commands ('up', 'down', 'left', 'right', 'stop') and use them to control an interactive application. The core of this submission is a single Jupyter Notebook that demonstrates the entire workflow for the FFT-based approach (Task 1.a).
 
+![end-end](https://github.com/user-attachments/assets/f31c542e-84c6-4e99-b36f-7bb77e46893c)
+![Signal Processing Pipeline](https://github.com/user-attachments/assets/b826e62d-3dbb-4b22-9d67-cb64e1ead440)
+
 System Requirements
 Python Version: 3.13.0
 
